@@ -5,7 +5,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-{"key":"戏曲","name":"🇨🇳戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/tianwaifeifan/XC/refs/heads/main/sub/Blixq.json","cookie":""}},
+{"key":"戏曲","name":"戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/https://raw.githubusercontent.com/tianwaifeifan/XC/refs/heads/main/sub/Blixq.json","cookie":""}},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},

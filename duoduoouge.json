@@ -1,7 +1,7 @@
 
 
 {
-""spider":"./jar.php?id=ou&ou=公众号欧歌app;md5;0baaf4986d05c592008d8248f4624f94",
+"spider":"./jar.php?id=ou&ou=公众号欧歌app;md5;0baaf4986d05c592008d8248f4624f94",
 "lives":[
 
 {"name":"AI直播","type":0,"url":"./lib/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},

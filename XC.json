@@ -486,8 +486,8 @@
       "ext": "./lib/alist.json"
     },
     {
-      "key": " "评书",
-      "name": ""📻BPQ┃评",
+      "key": " 评书",
+      "name": "📻BPQ┃评书",
       "type": 3,
       "api": "csp_Wexpsmp3Guard",
      "jar": "./lib/wex.txt"

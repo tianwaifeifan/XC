@@ -8,6 +8,9 @@
 {"name": "Live直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType": 2,"timeout": 10}
 ],
 "sites": [
+{"key":"阿里合集","name":"❤阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","share":"./lib/alishare.json"},"style":{"type":"list"}},
+{"key":"我的UC","name":"❤我的｜UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVbox/uc.txt"},"style":{"type":"list"}},
+
 
 {"key":"配置中心","name":"❤通用┃配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},

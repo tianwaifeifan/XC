@@ -496,7 +496,7 @@
       },
       "quickSearch": 0,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./lib/pg.jar",
       "ext": {
         "主页url": "https://www.psmp3.com",
         "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
